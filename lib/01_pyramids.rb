@@ -70,7 +70,7 @@ def wtf_pyramid
             c=nbr_etages - count
             d=b*(count-1)+a*c
             e=a*c + b*(count-1)
-            puts d +a+ e
+            puts d + a + e
         end
     end 
 end
